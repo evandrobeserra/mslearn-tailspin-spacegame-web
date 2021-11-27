@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/evandrogringo/Space%20Game%20-%20Web%20-%20Fluxo%20de%20trabalho/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/evandrogringo/Space%20Game%20-%20Web%20-%20Fluxo%20de%20trabalho/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
